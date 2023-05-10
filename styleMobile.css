@@ -240,7 +240,8 @@ header #navbar a {
 }
 
 #services .container .box img {
-    width: 3rem;
+    width: 48px;
+    height: 48px;
 }
 
 
